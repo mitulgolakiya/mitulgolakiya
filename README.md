@@ -7,6 +7,7 @@ I'm Mitul Golakiya. CEO & Founder of [InfyOm Technologies](https://www.infyom.co
 - [Laravel UI CoreUI](https://github.com/InfyOmLabs/laravel-ui-coreui) - Effortless Frontend Scaffolding for [CoreUI Theme](https://coreui.io/) with Laravel
 - [Laravel UI Stisla](https://github.com/InfyOmLabs/laravel-ui-stisla) - Effortless Frontend Scaffolding for [Stisla Theme](https://getstisla.com/) with Laravel and Laravel Fortify
 - [Recurring Calendar Events for Laravel](https://github.com/InfyOmLabs/laravel-calendar-events) - Calculate Laravel Calendar Recurring Events on the fly
+- [Laravel PayUMoney](https://github.com/InfyOmLabs/laravel-payumoney) - Easy to integrate PayUMoney Gateway Wrapper for Laravel
 - [AdminLTE Templates](https://github.com/InfyOmLabs/adminlte-templates) - CRUD Templates for AdminLTE Theme
 - [CoreUI Templates](https://github.com/InfyOmLabs/coreui-templates) - CRUD Templates for CoreUI Theme
 - [Swagger Generator](https://github.com/InfyOmLabs/swagger-generator) - Swagger support for APIs while generating via Laravel Generator
