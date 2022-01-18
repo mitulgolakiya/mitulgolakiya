@@ -17,7 +17,7 @@ I'm Mitul Golakiya. CEO & Founder of [InfyOm Technologies](https://www.infyom.co
 
 I also speak at multiple Laravel conferences. In my free time, I record videos on our [Youtube Channel](https://www.youtube.com/channel/UC8IvwfChD6i7Wp4yZp3tNsQ) and write blogs about my learnings at [InfyOm Blog](https://www.infyom.com/blog).
 
-I'm also one of the Admin of [Laravel India Slack Community](https://laravellive.in/) and actively answers questions there whenever possible.
+I'm also one of the Admin of [Laravel India Slack Community](https://laracon.in/) and actively answers questions there whenever possible.
 
 I really enjoy working in Laravel and Open-source technologies. You can visit our company website [Here](https://www.infyom.com/) and contact us there if you are interested in work with us. 📫 
 
